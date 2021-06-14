@@ -1,3 +1,3 @@
 # swipe-controller-unity
-another generic swipe controller for I wrote for Unity
+another generic swipe controller for I wrote for Unity\n
 ~ clone, add to player, adjust parameters in inspector, player go brr
