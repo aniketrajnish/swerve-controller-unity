@@ -40,7 +40,7 @@ public class Swpie : MonoBehaviour
         
         //translate
         if (Input.GetMouseButton(0))
-                transform.Translate(forwardAmount, 0, -swerveAmount * Time.deltaTime)
+                transform.Translate(forwardAmount, 0, -swipeSpeed * Time.deltaTime);
         
         //look
         Vector3 movement = new Vector3(0, swipeSpeed * 3f*Time.deltaTime*factor/5, 0);
