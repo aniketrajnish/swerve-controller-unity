@@ -1,2 +1,2 @@
 # swipe-controller-unity
-another fucking swipe controller for Unity
+~ clone, add to player, adjust parameters in inspector, player go brr
