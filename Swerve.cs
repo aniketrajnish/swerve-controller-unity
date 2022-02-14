@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Swpie : MonoBehaviour
+public class Swerve : MonoBehaviour
 {
     [SerializeField] private float swipeAmount = 5f;
     [SerializeField] private float swipeBound = 1f;
