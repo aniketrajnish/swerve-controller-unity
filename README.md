@@ -1,4 +1,4 @@
-# swipe-controller-unity
+# swerve-controller-unity
 another generic swerve controller I wrote for Unity
 
 ~ clone, add `Swerve.cs` to player, adjust parameters in inspector, player go brr<br>
